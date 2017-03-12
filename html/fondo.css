@@ -14,4 +14,9 @@
 		.col {
    			 padding: 10px 0px 10px 10px;
 		}
-
+			
+		.pie {
+    				position: absolute;
+    				bottom: 8px;
+   			        right: 16px;
+				}

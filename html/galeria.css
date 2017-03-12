@@ -1,15 +1,15 @@
-div.galleria {
+div.galeria {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
 }
 
-div.galleria:hover {
+div.galeria:hover {
     border: 1px solid #777;
 }
 
-div.galleria img {
+div.galeria img {
     width: 100%;
     height: auto;
 }
