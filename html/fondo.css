@@ -22,3 +22,26 @@
     				bottom: 8px;
    			        right: 16px;
 				}
+				
+
+				.boton {
+ 				 padding: 15px 25px;
+ 				 font-size: 24px;
+			         text-align: center;
+ 			         cursor: pointer;
+ 				 outline: none;
+  				 color: #fff;
+ 				 background-color: #555555;
+ 				 border: none;
+			         border-radius: 15px;
+			       
+					}
+				.boton:hover {background-color: #666666}
+
+				.boton:active {
+ 				 background-color: #000000;
+			         box-shadow: 0 5px #666;
+			        transform: translateY(4px);
+						}
+
+
